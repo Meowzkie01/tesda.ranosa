@@ -16,7 +16,7 @@ public class Task9 {
     }
 
     public static int divide(int a, int b) {
-        return floorDiv(a, b); // integer division
+        return floorDiv(a, b);
     }
 
     public static void main(String[] args) {
